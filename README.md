@@ -7,6 +7,10 @@
 | **XGBoost** | **88.5%** | 87.2% | 91.2% |
 | Random Forest | 83.5% | 82.1% | 86.7% |
 
+## 📊 Visual Results
+![EDA](docs/eda_visualizations.png)
+![Features](docs/feature_importance.png)
+![Confusion Matrix](docs/confusion_matrix.png)
 
 **Impact**: 83/94 bad loans caught → **$1.27M annual savings**
 
